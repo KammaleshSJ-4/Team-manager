@@ -15,3 +15,6 @@ This project is built on keeping cricket as the foundational sport.
 
 # Concepts used
 
+Inheritance
+Vector data type
+Polymorphism
